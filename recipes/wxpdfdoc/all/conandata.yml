@@ -1,0 +1,10 @@
+sources:
+  "1.2.1":
+    url: "https://github.com/utelle/wxpdfdoc/archive/refs/tags/v1.2.1.tar.gz"
+    sha256: "a73f16c1785364f2edd0236e18853c851ec77c0692eda11cef5d131064c2cae3"
+  "1.1.0":
+    url: "https://github.com/utelle/wxpdfdoc/archive/refs/tags/v1.1.0.tar.gz"
+    sha256: "261b41dbdf411a8b0254c58d4d2f96e50caab0b0aae3f5a46cc54f4268262f30"
+  "1.0.3":
+    url: "https://github.com/utelle/wxpdfdoc/archive/refs/tags/v1.0.3.tar.gz"
+    sha256: "cc5e1a6bf2b72a9fc2b124b80be9250b19313c0301941e8c53ead5c46165344f"
