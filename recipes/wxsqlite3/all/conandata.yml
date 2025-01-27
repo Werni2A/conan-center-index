@@ -1,0 +1,4 @@
+sources:
+  "4.10.2":
+    url: "https://github.com/utelle/wxsqlite3/archive/refs/tags/v4.10.2.tar.gz"
+    sha256: "a64c8803a70a42359b112daf4d7c00ed1f548be998a3b20462880ce91c51f4e8"
